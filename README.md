@@ -31,7 +31,7 @@ datasets/
 
 ```
 
-- Test the segmentation performance
+- Test the segmentation performance of Polyp lesion segmentation
 
 ```
 $ python test.py
