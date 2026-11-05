@@ -16,9 +16,9 @@ higher Dice scores and lower HD95 than the compared federated methods.
 - `pip install -r requirements.txt`
 
 ## Testing
-- Download the datasets folder from [GoogleDrive](https://drive.google.com/file/d/1JtwsvKA5viT3WwE15wlsvUph9uMwYDXQ/view?usp=sharing) and place them in the project directory.
+- Download the datasets folder from [GoogleDrive](https://drive.google.com/file/d/1JtwsvKA5viT3WwE15wlsvUph9uMwYDXQ/view?usp=sharing) and place them in the FedSRBF project directory.
 
-- The folder structure within `datasets` should be organized as follows:
+- The folder structure within `FedSRBF/datasets` should be organized as follows:
 ```
 datasets/
 ├── B1/
