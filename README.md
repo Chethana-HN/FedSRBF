@@ -34,7 +34,7 @@ datasets/
 - Test the segmentation performance of Polyp lesion segmentation
 
 ```
-$ CUDA_VISIBLE_DEVICES=0 python -u test.py  --model model.pth  --data-root /path/to/the/folder/datasets
+$ python test.py  --model model.pth  --data-root /path/to/the/folder/datasets
 ```
 
 
