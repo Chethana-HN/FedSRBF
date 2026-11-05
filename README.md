@@ -31,7 +31,7 @@ datasets/
 
 ```
 
-- Test the segmentation performance of Polyp lesion segmentation
+- Test the segmentation performance of Breast tumor dataset
 
 ```
 $ python test.py  --model model.pth  --data-root /path/to/the/folder/datasets
